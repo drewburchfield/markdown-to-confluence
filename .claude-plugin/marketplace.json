@@ -1,0 +1,12 @@
+{
+  "name": "markdown-to-confluence-dev",
+  "owner": {"name": "Drew Burchfield", "url": "https://github.com/drewburchfield"},
+  "plugins": [{
+    "name": "markdown-to-confluence",
+    "source": "./",
+    "description": "Convert Markdown documents to Confluence Storage Format (XHTML-based XML)",
+    "version": "1.0.6",
+    "author": {"name": "Drew Burchfield", "url": "https://github.com/drewburchfield"},
+    "category": "documentation"
+  }]
+}
